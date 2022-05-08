@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Measurements">
+        <item>"Pinch"</item>
+        <item>"Teaspoon"</item>
+        <item>"Tablespoon"</item>
+        <item>"Cup"</item>
+        <item>"Kilogram or Litre"</item>
+    </string-array>
+    <string-array name="food_type_list">
+        <item>"Abalone"</item>
+        <item>"Alcoholic beverage"</item>
+        <item>"Amaranth"</item>
+        <item>"Anchovy"</item>
+        <item>"Apple"</item>
+        <item>"Apricot"</item>
+        <item>"Artichoke"</item>
+        <item>"Artichoke heart"</item>
+        <item>"Asparagus"</item>
+        <item>"Avocado"</item>
+        <item>"Bacon"</item>
+        <item>"Baked beans"</item>
+        <item>"Baking powder"</item>
+        <item>"Baking soda (bicarbonate)"</item>
+        <item>"Bamboo shoot"</item>
+        <item>"Banana"</item>
+        <item>"Bar"</item>
+        <item>"Barley"</item>
+        <item>"Barramundi"</item>
+        <item>"Basil"</item>
+        <item>"Bassa"</item>
+        <item>"Bassa (basa)"</item>
+        <item>"Bean"</item>
+        <item>"Beef"</item>
+        <item>"Beer"</item>
+        <item>"Beetroot"</item>
+        <item>"Beverage"</item>
+        <item>"Beverage base"</item>
+        <item>"Biscuit"</item>
+        <item>"Blackberry"</item>
+        <item>"Blue grenadier"</item>
+        <item>"Blueberry"</item>
+        <item>"Bok choy"</item>
+        <item>"Braised steak and onions"</item>
+        <item>"Bread"</item>
+        <item>"Bread roll"</item>
+        <item>"Breadcrumbs"</item>
+        <item>"Breakfast cereal"</item>
+        <item>"Bream"</item>
+        <item>"Broccoli"</item>
+        <item>"Broccolini"</item>
+        <item>"Brussels sprout"</item>
+        <item>"Buckwheat groats"</item>
+        <item>"Buffalo"</item>
+        <item>"Bulgur"</item>
+        <item>"Bun"</item>
+        <item>"Butter"</item>
+        <item>"Cabbage"</item>
+        <item>"Cake"</item>
+        <item>"Cake mix"</item>
+        <item>"Camel"</item>
+        <item>"Capers"</item>
+        <item>"Capsicum"</item>
+        <item>"Caramels"</item>
+        <item>"Cardamom seed"</item>
+        <item>"Carrot"</item>
+        <item>"Cassava"</item>
+        <item>"Cauliflower"</item>
+        <item>"Celeriac"</item>
+        <item>"Celery"</item>
+        <item>"Cheese"</item>
+        <item>"Cherry"</item>
+        <item>"Chicken"</item>
+        <item>"Chickpea"</item>
+        <item>"Chicory"</item>
+        <item>"Chilli (chili)"</item>
+        <item>"Chives"</item>
+        <item>"Chocolate"</item>
+        <item>"Choko"</item>
+        <item>"Chutney or relish"</item>
+        <item>"Cider"</item>
+        <item>"Cinnamon"</item>
+        <item>"Cloves"</item>
+        <item>"Cocoa powder"</item>
+        <item>"Coconut"</item>
+        <item>"Cod"</item>
+        <item>"Cod or hake"</item>
+        <item>"Coffee"</item>
+        <item>"Cone"</item>
+        <item>"Confectionery"</item>
+        <item>"Cordial"</item>
+        <item>"Cordial base"</item>
+        <item>"Coriander"</item>
+        <item>"Coriander seed"</item>
+        <item>"Corn"</item>
+        <item>"Corn chips"</item>
+        <item>"Cornmeal (polenta)"</item>
+        <item>"Couscous"</item>
+        <item>"Crab"</item>
+        <item>"Cranberry"</item>
+        <item>"Cream"</item>
+        <item>"Cream of tartar"</item>
+        <item>"Crocodile"</item>
+        <item>"Croissant"</item>
+        <item>"Crumpet"</item>
+        <item>"Cucumber"</item>
+        <item>"Cumin (cummin) seed"</item>
+        <item>"Cumquat (kumquat)"</item>
+        <item>"Currant"</item>
+        <item>"Curry powder"</item>
+        <item>"Custard"</item>
+        <item>"Custard apple"</item>
+        <item>"Custard powder"</item>
+        <item>"Dairy blend"</item>
+        <item>"Dairy or yoghurt dessert"</item>
+        <item>"Date"</item>
+        <item>"Dill"</item>
+        <item>"Doughnut"</item>
+        <item>"Dressing"</item>
+        <item>"Dripping"</item>
+        <item>"Duck"</item>
+        <item>"Egg"</item>
+        <item>"Eggplant"</item>
+        <item>"Emu"</item>
+        <item>"Endive"</item>
+        <item>"Extruded snack"</item>
+        <item>"Fat"</item>
+        <item>"Feijoa"</item>
+        <item>"Fennel"</item>
+        <item>"Fenugreek seed"</item>
+        <item>"Fig"</item>
+        <item>"Fish"</item>
+        <item>"Fish finger"</item>
+        <item>"Flathead"</item>
+        <item>"Flour"</item>
+        <item>"Frankfurt"</item>
+        <item>"Fruit drink"</item>
+        <item>"Fruit salad"</item>
+        <item>"Garlic"</item>
+        <item>"Gelatine"</item>
+        <item>"Gemfish"</item>
+        <item>"Ghee"</item>
+        <item>"Gherkin"</item>
+        <item>"Ginger"</item>
+        <item>"Glucose"</item>
+        <item>"Gluten"</item>
+        <item>"Goat"</item>
+        <item>"Goji berry"</item>
+        <item>"Grape"</item>
+        <item>"Grapefruit"</item>
+        <item>"Gravy"</item>
+        <item>"Gravy powder"</item>
+        <item>"Guava"</item>
+        <item>"Ham"</item>
+        <item>"Hamburger"</item>
+        <item>"Honey"</item>
+        <item>"Hot dog"</item>
+        <item>"Ice confection"</item>
+        <item>"Ice cream"</item>
+        <item>"Jackfruit"</item>
+        <item>"Jam"</item>
+        <item>"Jelly"</item>
+        <item>"Jelly crystals"</item>
+        <item>"Juice"</item>
+        <item>"Kale"</item>
+        <item>"Kangaroo"</item>
+        <item>"Kingfish"</item>
+        <item>"Kiwifruit"</item>
+        <item>"Kohlrabi"</item>
+        <item>"Lamb"</item>
+        <item>"Lasagne"</item>
+        <item>"Leek"</item>
+        <item>"Lemon"</item>
+        <item>"Lemon peel"</item>
+        <item>"Lentil"</item>
+        <item>"Lettuce"</item>
+        <item>"Lime"</item>
+        <item>"Liquorice"</item>
+        <item>"Lobster"</item>
+        <item>"Lolly"</item>
+        <item>"Loquat"</item>
+        <item>"Lupin"</item>
+        <item>"Lychee"</item>
+        <item>"Macaroni and cheese"</item>
+        <item>"Mackerel"</item>
+        <item>"Maize"</item>
+        <item>"Mandarin"</item>
+        <item>"Mango"</item>
+        <item>"Margarine spread"</item>
+        <item>"Marmalade"</item>
+        <item>"Mayonnaise"</item>
+        <item>"Melon"</item>
+        <item>"Meringue"</item>
+        <item>"Milk"</item>
+        <item>"Milkfish"</item>
+        <item>"Millet"</item>
+        <item>"Mineral water"</item>
+        <item>"Mint"</item>
+        <item>"Mixed dried fruit"</item>
+        <item>"Mixed vegetables"</item>
+        <item>"Morwong"</item>
+        <item>"Muesli"</item>
+        <item>"Muffin"</item>
+        <item>"Mulberry"</item>
+        <item>"Mullet"</item>
+        <item>"Mulloway"</item>
+        <item>"Mushroom"</item>
+        <item>"Mussel"</item>
+        <item>"Mustard"</item>
+        <item>"Mustard powder"</item>
+        <item>"Mutton"</item>
+        <item>"Nectarine"</item>
+        <item>"Noodle"</item>
+        <item>"Noodle snack"</item>
+        <item>"Nut"</item>
+        <item>"Nutmeg"</item>
+        <item>"Oat beverage"</item>
+        <item>"Oats"</item>
+        <item>"Octopus"</item>
+        <item>"Oil"</item>
+        <item>"Okra"</item>
+        <item>"Olive"</item>
+        <item>"Onion"</item>
+        <item>"Orange"</item>
+        <item>"Oregano"</item>
+        <item>"Ostrich"</item>
+        <item>"Oyster"</item>
+        <item>"Pancake"</item>
+        <item>"Paprika"</item>
+        <item>"Parsley"</item>
+        <item>"Parsnip"</item>
+        <item>"Passionfruit"</item>
+        <item>"Pasta"</item>
+        <item>"Pasta in cream based sauce"</item>
+        <item>"Paste"</item>
+        <item>"Pastry"</item>
+        <item>"Pawpaw (papaya)"</item>
+        <item>"Pea"</item>
+        <item>"Peach"</item>
+        <item>"Peanut butter"</item>
+        <item>"Pear"</item>
+        <item>"Pepper"</item>
+        <item>"Persimmon"</item>
+        <item>"Pie"</item>
+        <item>"Pigeon (squab)"</item>
+        <item>"Pikelet"</item>
+        <item>"Pikelet or pancake"</item>
+        <item>"Pineapple"</item>
+        <item>"Pineapple (cayenne)"</item>
+        <item>"Pizza"</item>
+        <item>"Plum"</item>
+        <item>"Pomegranate"</item>
+        <item>"Popcorn"</item>
+        <item>"Pork"</item>
+        <item>"Porridge"</item>
+        <item>"Potato"</item>
+        <item>"Potato crisps or chips"</item>
+        <item>"Potato straws"</item>
+        <item>"Prawn"</item>
+        <item>"Prickly pear"</item>
+        <item>"Prosciutto"</item>
+        <item>"Prune (dried plum)"</item>
+        <item>"Psyllium"</item>
+        <item>"Pudding"</item>
+        <item>"Pumpkin"</item>
+        <item>"Quail"</item>
+        <item>"Quandong"</item>
+        <item>"Quince"</item>
+        <item>"Quinoa"</item>
+        <item>"Rabbit"</item>
+        <item>"Radish"</item>
+        <item>"Raisin"</item>
+        <item>"Rambutan"</item>
+        <item>"Raspberry"</item>
+        <item>"Rhubarb"</item>
+        <item>"Rice"</item>
+        <item>"Rice beverage"</item>
+        <item>"Rice paper wrapper"</item>
+        <item>"Rocket"</item>
+        <item>"Rosemary"</item>
+        <item>"Rye"</item>
+        <item>"Sage"</item>
+        <item>"Salmon"</item>
+        <item>"Salt"</item>
+        <item>"Salt substitute"</item>
+        <item>"Sardine"</item>
+        <item>"Sauce"</item>
+        <item>"Sausage"</item>
+        <item>"Sausage roll"</item>
+        <item>"Sausages and vegetables"</item>
+        <item>"Scallop"</item>
+        <item>"Scone"</item>
+        <item>"Seaweed"</item>
+        <item>"Seed"</item>
+        <item>"Semolina"</item>
+        <item>"Shallot"</item>
+        <item>"Shark"</item>
+        <item>"Silver perch"</item>
+        <item>"Silverbeet"</item>
+        <item>"Slice"</item>
+        <item>"Snapper"</item>
+        <item>"Snow pea"</item>
+        <item>"Soft drink"</item>
+        <item>"Sorghum"</item>
+        <item>"Soup"</item>
+        <item>"Soy beverage"</item>
+        <item>"Spaghetti in tomato and cheese sauce"</item>
+        <item>"Spam"</item>
+        <item>"Spelt"</item>
+        <item>"Spinach"</item>
+        <item>"Sprat"</item>
+        <item>"Spread"</item>
+        <item>"Spring roll"</item>
+        <item>"Sprout"</item>
+        <item>"Squash"</item>
+        <item>"Squid or calamari"</item>
+        <item>"Starch"</item>
+        <item>"Steak and vegetables"</item>
+        <item>"Stock"</item>
+        <item>"Strawberry"</item>
+        <item>"Sugar"</item>
+        <item>"Sultana"</item>
+        <item>"Swede"</item>
+        <item>"Sweet potato"</item>
+        <item>"Syrup"</item>
+        <item>"Taco seasoning mix"</item>
+        <item>"Taco shell"</item>
+        <item>"Tahini"</item>
+        <item>"Tamarillo"</item>
+        <item>"Tamarind"</item>
+        <item>"Tangelo"</item>
+        <item>"Tangerine or tangor"</item>
+        <item>"Tapioca"</item>
+        <item>"Taro"</item>
+        <item>"Tart"</item>
+        <item>"Tea"</item>
+        <item>"Thyme"</item>
+        <item>"Tilapia"</item>
+        <item>"Tofu (soy bean curd)"</item>
+        <item>"Tomato"</item>
+        <item>"Triticale"</item>
+        <item>"Trout"</item>
+        <item>"Tuna"</item>
+        <item>"Turkey"</item>
+        <item>"Turmeric"</item>
+        <item>"Turnip"</item>
+        <item>"Vanilla"</item>
+        <item>"Vanilla bean extract"</item>
+        <item>"Veal"</item>
+        <item>"Vine leaf"</item>
+        <item>"Vinegar (except balsamic vinegar)"</item>
+        <item>"Water"</item>
+        <item>"Water chestnut"</item>
+        <item>"Watercress"</item>
+        <item>"Wattle seed (acacia)"</item>
+        <item>"Wax jambu"</item>
+        <item>"Wheat"</item>
+        <item>"Wheat bran"</item>
+        <item>"Wheat germ"</item>
+        <item>"Whiting"</item>
+        <item>"Wine"</item>
+        <item>"Yam"</item>
+        <item>"Yeast"</item>
+        <item>"Yoghurt"</item>
+        <item>"Zucchini"</item>
+
+
+
+    </string-array>
+</resources>

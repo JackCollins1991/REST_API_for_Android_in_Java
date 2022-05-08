@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="my_text_view_id"
+        type="id"
+        value = "@layout/my_text_view">
+</item>
+</resources>

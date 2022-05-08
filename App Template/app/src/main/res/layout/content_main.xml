@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:id="@+id/add_Ingredients_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_ingredients" />
+
+    <TextView
+        android:id="@+id/quantity_text"
+        android:layout_width="66dp"
+        android:layout_height="wrap_content"
+        android:text="@string/quantity" />
+
+    <EditText
+        android:id="@+id/quantity_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:id="@+id/measurement_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/measurement_type" />
+
+    <Spinner
+        android:id="@+id/measurement_type_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/Measurements" />
+
+    <Button
+        android:id="@+id/go_to_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="goToSelect"
+        android:text="Select Food Stuff Type" />
+
+    <TextView
+        android:id="@+id/food_type_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/type_of_food" />
+
+    <TextView
+        android:id="@+id/food_stuff_display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoText="false"
+        android:text="@string/select_the_type_of_food_stuff"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <TextView
+        android:id="@+id/ingredient_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ingredient_label" />
+
+    <EditText
+        android:id="@+id/ingredient_label_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/add_ingredient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="addToRecipe"
+        android:text="@string/add_to_recipe" />
+
+    <Button
+        android:id="@+id/calculate_nutrition_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="startCalculateNutrition"
+        android:text="@string/calculate_nutrition" />
+
+    <ListView
+        android:id="@+id/recipe_display"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
